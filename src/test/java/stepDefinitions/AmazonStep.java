@@ -6,8 +6,8 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.WebDriver;
-import page.RetoAmazon.HomePage;
-import page.RetoAmazon.SearchResultsPage;
+import page.HomePage;
+import page.SearchResultsPage;
 
 public class AmazonStep {
 

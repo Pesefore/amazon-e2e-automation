@@ -1,7 +1,6 @@
-package page.RetoAmazon;
+package page;
 
 import org.junit.Assert;
-import org.junit.rules.ExpectedException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

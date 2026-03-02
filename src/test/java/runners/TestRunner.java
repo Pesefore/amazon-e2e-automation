@@ -6,7 +6,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/java/feature",
+        features = "src/test/java/feature/AMAZON",
         glue = {"stepDefinitions", "hooks"},
         tags = "@FlujoE2E",
         plugin = {
